@@ -1,0 +1,14 @@
+body{
+    background: url(fondo1.jpg);
+    text-align: center;
+}
+h1{
+    font-style: impact;
+    font-size: 100px;
+}
+button{
+   border-radius: 8px;
+}
+input{
+    border-radius: 8px;
+}
